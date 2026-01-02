@@ -1,0 +1,6 @@
+site_name: Optamine: Optimised Mining Solutions
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
