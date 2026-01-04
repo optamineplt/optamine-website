@@ -2,4 +2,4 @@ site_name: optamine
 theme:
   name: material
 nav:
-  - Home: index.html
+  - Home: index.md
