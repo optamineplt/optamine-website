@@ -1,3 +1,5 @@
-site_name: Optamine
-docs_dir: docs
-site_dir: site
+site_name: optamine
+theme:
+  name: material
+nav:
+  - Home: index.html
